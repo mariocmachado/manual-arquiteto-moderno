@@ -19,7 +19,7 @@ There are a lot of frameworks out there now aiming to provide an easier experien
 
 This pretty much goes in contrast with what we (as the Java Community) were doing five years ago, and some of us still do, which was to deploy our Java applications inside an Application Server or a Servlet Container such as Tomcat. 
 
-While we used to have a monolith with all the features of our large applications built inside, now we aim to have a set of services with well-defined functionality.  These new (micro)services share the following characteristics:
+While we used to have a monolith with all the features of our large applications built inside, now we aim to have a set of services with well-defined functionality.  These new (micro)services share the following characteristics: 
 - Tend to colocate and version all the artifacts that are needed to go from source code to a running service in an environment.
 - Each service is built, maintained, evolved and deployed by a different team
 - Each service has its own release cycle 
