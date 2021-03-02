@@ -99,7 +99,7 @@ Caso você esteja em um cenário em que precisa migrar um monolito, é recomenda
 
 Como visto acima, a arquitetura de microsserviços traz muitos benefícios para o seu ambiente e lhe oferece a vantagem de deixar o desenvolvimento independente quando se tem vários times e funcionalidades, e essa independência se estende também para o deploy da aplicação. Ou seja, você dá agilidade e velocidade para seu times, consegue ter código de melhor qualidade, já que ele vai estar organizado ao redor da funcionalidade. Há a vantagem de ser fácil de escalar apenas no ponto em que é necessário, e ainda poder ser aplicacado na tecnologia em que você tem mais domínio.
 
-Mas, como já dito anteriormente, não é nenhuma bala de prata: ele traz complexidades para o ambiente e novas preocupações em termos de segurança. Imagine um projeto gigante, com múltiplas instâncias e centenas de microsserviços; como você irá monitorar? Em caso de erro, como você vai encontrar, desviar ou mesmo tratar o erro?
+Mas, como já dito anteriormente, não é nenhuma bala de prata: ele traz complexidades para o ambiente e novas preocupações em termos de segurança. Imagine um projeto gigante, com múltiplas instâncias e centenas de microsserviços; como você iria monitorar? Em caso de erro, como você vai encontrar, desviar ou mesmo tratar o erro?
 
 Se usado da maneira correta, e tratados de perto os pontos de atenção, esse padrão de arquitetura tem muito a agregar nos seus projetos.
 
